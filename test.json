@@ -6,14 +6,14 @@
       "vaults": [
         {
           "chainId": "5",
-          "vault": "0xfedbfbaf3288696c9eb43d04174ad55f3674159f",
-          "ethereumConfiguration": "0:a2566f9b060ae4c36df62e5c6cabefbfcff8a758aee13886e7100dbc5c7e0360",
+          "vault": "0x32ACdD92cA13761e06fC2F81266B48B1682870Ea",
+          "ethereumConfiguration": "0:153c01ab57e93a2dc4fa31651b8fd648f13088331f7b54d88b64d7a998c100d1",
           "depositType": "default"
         },
         {
           "chainId": "3",
-          "vault": "0xa97347269089bdcfbccdb66a2c84c2013b618237",
-          "ethereumConfiguration": "0:7bcbae84a0136dbbdd0cb4c10d0312b24f4c1d93f79e7d510db4a03d9903be1e",
+          "vault": "0x76a71fdb1c4e7fe766684e2634bea1f34a869c73",
+          "ethereumConfiguration": "0:2bed5891b4431261442f767fb55fc15e0acb55b2227d97de749e15e6b29da02e",
           "depositType": "default"
         }
       ]
