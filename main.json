@@ -9,6 +9,12 @@
           "vault": "0xe05052a189771888c4a1202ceec3be57c5efe891",
           "ethereumConfiguration": "0:2cc8bf5dc94987572304bcfd794d4e577283a6f7072da42227ad58731918de12",
           "depositType": "default"
+        },
+        {
+          "chainId": "1",
+          "vault": "0x687d0fa2c74a2ddfbda08da2ef494b64a967b7fa",
+          "ethereumConfiguration": "0:6a6bc56f67de99d92772b933888135a37b496b979106c02be2f84be93dddf2ae",
+          "depositType": "default"
         }
       ]
     }
