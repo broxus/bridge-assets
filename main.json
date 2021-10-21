@@ -11,6 +11,12 @@
           "depositType": "default"
         },
         {
+          "chainId": "56",
+          "vault": "0xe05052a189771888c4a1202ceec3be57c5efe891",
+          "ethereumConfiguration": "0:62bfb9cdc9bacefd06f02570397c2061d0cc08a6a4e7765689d32682737f1f9e",
+          "depositType": "credit"
+        },
+        {
           "chainId": "1",
           "vault": "0x687d0fa2c74a2ddfbda08da2ef494b64a967b7fa",
           "ethereumConfiguration": "0:6a6bc56f67de99d92772b933888135a37b496b979106c02be2f84be93dddf2ae",
