@@ -84,7 +84,7 @@
         {
           "chainId": "56",
           "vault": "0xead4505e938b56fd6affb93dff8b001b215836fd",
-          "ethereumConfiguration": "0:a128c6ee18097f1ddbfa46b3805964dd7ed51e120888811a02d20e5c1de108d8s",
+          "ethereumConfiguration": "0:a128c6ee18097f1ddbfa46b3805964dd7ed51e120888811a02d20e5c1de108d8",
           "depositType": "default"
         },
         {
