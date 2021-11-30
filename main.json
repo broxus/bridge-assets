@@ -119,7 +119,7 @@
         {
           "chainId": "137",
           "vault": "0x9518e435c86b51d9811563c256ff80415ba1851f",
-          "ethereumConfiguration": "0:8676f84a3d5cdd88f03a4b9389710099a75755b65329ec7f876b0fc533690286s",
+          "ethereumConfiguration": "0:8676f84a3d5cdd88f03a4b9389710099a75755b65329ec7f876b0fc533690286",
           "depositType": "credit"
         },
         {
