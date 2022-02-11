@@ -1,19 +1,13 @@
 {
   "name": "Broxus Bridge connected assets",
   "token": {
-    "0:fc89e9b3416bf6c61d01908cbf12414ee7ec271c82ab1b2cb9f110414a7ccb59": {
-      "proxy": "0:9aaa3276807ce3a00357340ce8a98669824a906407465a9c5d742faebb98668a",
+    "0:4b6240eb87495ca9fc0c9ea58947f9707af5a0aa79d15f1e00f964878f52c73f": {
+      "proxy": "0:81e730dd52ec943456a28bd8cad709a8e0f1ea572fde17c1c5be7aaec513ab21",
       "vaults": [
         {
           "chainId": "5",
-          "vault": "0x32ACdD92cA13761e06fC2F81266B48B1682870Ea",
-          "ethereumConfiguration": "0:153c01ab57e93a2dc4fa31651b8fd648f13088331f7b54d88b64d7a998c100d1",
-          "depositType": "default"
-        },
-        {
-          "chainId": "3",
-          "vault": "0x76a71fdb1c4e7fe766684e2634bea1f34a869c73",
-          "ethereumConfiguration": "0:2bed5891b4431261442f767fb55fc15e0acb55b2227d97de749e15e6b29da02e",
+          "vault": "0x404a9048e44b1cabbdc0809e524ce7d3f66e5cfd",
+          "ethereumConfiguration": "0:5ebf733de554673eb8bbe1864b3c58fbecb47d69e9571ea593bb668d33f55392",
           "depositType": "default"
         }
       ]
