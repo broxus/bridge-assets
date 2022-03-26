@@ -2,35 +2,59 @@
 	"name": "Broxus Bridge connected assets",
 	"multitoken": {
 		"evm_everscale": {
-			"proxy": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
+			"proxy": "0:85c3287c6114e420ae82ec1364da3c760a5789f383213ef3cedef5d8c3d126fd",
 			"vaults": [
 				{
+					"chainId": "56",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:416a33b19fac9845ceb6f3963324e4a81fe527be0c5fc1a59abb90f58675396a",
+					"depositType": "default"
+				},
+				{
 					"chainId": "1",
-					"vault": "0x032d06b4cc8a914b85615acd0131c3e0a7330968",
-					"ethereumConfiguration": "0:d01b67b1f7eef5cca030ae438fcbab6c4a52d2a6ca535937d14f7b6530378516",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:628a6dfd101cef4b17c841a311933746cdccf4da7643481f920bba40a3c975e9",
 					"depositType": "default"
 				},
 				{
 					"chainId": "137",
-					"vault": "0xced734f47613e2484fd9ee6f76afcb866bc4d6fa",
-					"ethereumConfiguration": "0:d9cba67dd6321a1f42320440c242927f46bda324c7016d888f20491a630cfab5",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:c11cfe791310b9f22f339681dd68fe0fb8b642259f3c46163fe52802b6d8a7ef",
+					"depositType": "default"
+				},
+				{
+					"chainId": "250",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:10ab10aec7fe23cad95e369e581a87d6d04cfbc27014e6ed051028dfadc8b447",
 					"depositType": "default"
 				}
 			]
 		},
 		"everscale_evm": {
-			"proxy": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
+			"proxy": "0:36122a25a11e8772dc5d94f5f6a653d4661f6e474bc85cb275aece185acd62a4",
 			"vaults": [
 				{
-					"chainId": "250",
-					"vault": "0x334d7e33f3b0ac04309b17ca56bcb0f0fa3d0efd",
-					"ethereumConfiguration": "0:7d633a0896a81696fc9d0eae8a2422842ca85231455244c7008a7393003d2e68",
+					"chainId": "56",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:3194a661a38d6cfa1f79f6def65285b87bf43a7571bd4bb4d4e29da50b704c05",
 					"depositType": "default"
 				},
 				{
-					"chainId": "56",
-					"vault": "0xad4c25634e3818d674ddc07b98135ed6db7ef307",
-					"ethereumConfiguration": "0:fba596b07c181792db8d2f2b37ff986db686b2029aeb0ac3adfb44c4a78374e1",
+					"chainId": "1",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:5db613a4e5205481bfbfd8a38bb0e0bf1e79f9a39f6e08367e53cbc57f31efc7",
+					"depositType": "default"
+				},
+				{
+					"chainId": "137",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:4ae853d3ffbb0e7369c1a3ddd6c5cb3a8c447e197f712d70874ecf67e5d1371a",
+					"depositType": "default"
+				},
+				{
+					"chainId": "250",
+					"vault": "0xa13ff563f67eca1718b6f85f9e12ca1079a09bfc",
+					"ethereumConfiguration": "0:7bb8e7bb6190fb1126017b10621b9b91392babfac215c0dff36f8cf89e0398b7",
 					"depositType": "default"
 				}
 			]
