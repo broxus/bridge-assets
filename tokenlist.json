@@ -1,0 +1,22 @@
+{
+  "name":"Octus Bridge",
+  "timestamp":"2022-03-29T15:30:00+00:00",
+  "keywords":[
+    "octus",
+    "bridge"
+  ],
+  "version":{
+    "major":0,
+    "minor":0,
+    "patch":0
+  },
+  "tokens":[
+    {
+      "chainId": 56,
+      "address": "0xA26Aa2a1848C9050B93fA0E47c6E4A25F2fd5019",
+      "symbol": "octBRIDGE",
+      "name": "Octus BRIDGE",
+      "decimals": 9
+    }
+  ]
+}
