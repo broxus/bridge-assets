@@ -1687,6 +1687,22 @@
       "name": "Wrapped Fantom",
       "symbol": "WFTM",
       "logoURI": "https://raw.githubusercontent.com/Crocoswap/assets/master/blockchains/operachain/assets/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x000000ef379eE7F4C051f4B9aF901A9219d9ec5C",
+      "decimals": 18,
+      "name": "INFAM",
+      "symbol": "INF",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INF/logo.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x000000ef379eE7F4C051f4B9aF901A9219d9ec5C",
+      "decimals": 18,
+      "name": "INFAM",
+      "symbol": "INF",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INF/logo.svg"
     }
   ]
 }
