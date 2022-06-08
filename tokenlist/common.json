@@ -1692,7 +1692,7 @@
       "chainId": 137,
       "address": "0x000000ef379eE7F4C051f4B9aF901A9219d9ec5C",
       "decimals": 18,
-      "name": "INFAM",
+      "name": "Infam",
       "symbol": "INF",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INF/logo.svg"
     },
@@ -1700,7 +1700,7 @@
       "chainId": 56,
       "address": "0x000000ef379eE7F4C051f4B9aF901A9219d9ec5C",
       "decimals": 18,
-      "name": "INFAM",
+      "name": "Infam",
       "symbol": "INF",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/INF/logo.svg"
     }
