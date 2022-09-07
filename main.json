@@ -538,6 +538,7 @@
                 "proxy": "0:92b9a9c914f0383dcd3465bbdaecf5816a2603ef8927df83c85785b7c331814f",
                 "vaults": [
                     {
+                        "chainId": "1",
                         "vault": "76vLcjT4MBMvhEw5CeHPjCovpfpGmHwQ6RGM3Qd7Usnu",
                         "solanaConfiguration": "0:e44fab5fd3190b47c76b8615596ae3c6ed2e01698754e732fe799515d994dc9c",
                         "depositType": "default",
