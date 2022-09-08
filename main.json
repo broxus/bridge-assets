@@ -540,6 +540,7 @@
                     {
                         "chainId": "1",
                         "vault": "76vLcjT4MBMvhEw5CeHPjCovpfpGmHwQ6RGM3Qd7Usnu",
+                        "settings": "BoC8sXW7qBhz4ESNbtwZbxeg3QQ2h61Z75QRBvaNZJBZ",
                         "solanaConfiguration": "0:e44fab5fd3190b47c76b8615596ae3c6ed2e01698754e732fe799515d994dc9c",
                         "depositType": "default",
                         "token": "So11111111111111111111111111111111111111112",
