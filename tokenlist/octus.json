@@ -1,0 +1,15 @@
+{
+  "name":"Octus Bridge",
+  "timestamp":"2022-03-29T15:30:00+00:00",
+  "keywords":[
+    "octus",
+    "bridge"
+  ],
+  "version":{
+    "major":0,
+    "minor":0,
+    "patch":0
+  },
+  "tokens":[
+  ]
+}
