@@ -1,5 +1,77 @@
 {
     "name": "Broxus Bridge connected assets",
+    "multitoken": {
+        "evm_everscale": {
+            "proxy": "0:85c3287c6114e420ae82ec1364da3c760a5789f383213ef3cedef5d8c3d126fd",
+            "vaults": [
+                {
+                    "chainId": "56",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:a7d21aef5912339311fb78bc0e43ab8f257cd5370425a6ec3c9d9aad643c5217",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "1",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:da0e8afb638db1a070a54c1080f1f9d4079b747330add9c22af67d263bba0718",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "137",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:6bb4f9a8f79dcf2ec7e5662e157bb8f64289f4c60acd29d39afaab3cd4a464ad",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "250",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:e4ae07fc05de881471b4dbc817c0a44c8759bfaabd1630310809762e0dfaaec2",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "43114",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:c2cd4fb60d7db23fa06cd0ec1e547f850c5c5ffe95e596807420d48328f4b4a8",
+                    "depositType": "default"
+                }
+            ]
+        },
+        "everscale_evm": {
+            "proxy": "0:36122a25a11e8772dc5d94f5f6a653d4661f6e474bc85cb275aece185acd62a4",
+            "vaults": [
+                {
+                    "chainId": "56",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:5e54438e58975ea2d4146fa0cbe8796a2793b846bef9408db87211789f6d1f18",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "1",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:2e5e232c2a1fe73124edf34b509caf955a197d1daa8cc1a54b8210486311840e",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "137",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:fc4286f4a2c8e85c194276229556a8e0ad699dc315a20e6b8272517dd68e1071",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "250",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:6b2ec4e6cc7c645bf7c055779c45f887f200979ca0a1c20ab5dabd56243632b7",
+                    "depositType": "default"
+                },
+                {
+                    "chainId": "43114",
+                    "vault": "0x54c55369a6900731d22eacb0df7c0253cf19dfff",
+                    "ethereumConfiguration": "0:396fe2e5b086cad73bfe1d9ed370ee67f0c112315f8f99748c5ea77e45243c97",
+                    "depositType": "default"
+                }
+            ]
+        }
+    },
     "token": {
         "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9": {
             "evm_everscale": {
@@ -445,22 +517,6 @@
                         "ethereumConfiguration": "0:ce05eca17c5703386db3d09341e2c7a446184be810eb820c9b1aa59e85f53c54",
                         "depositType": "default",
                         "token": "0x0a7e7d210c45c4abba183c1d0551b53ad1756eca"
-                    }
-                ]
-            }
-        },
-        "0:f787089d81b4d4506f783c611272fedfe5164f784991436491eb619fae13d171": {
-            "solana_everscale": {
-                "proxy": "0:92b9a9c914f0383dcd3465bbdaecf5816a2603ef8927df83c85785b7c331814f",
-                "vaults": [
-                    {
-                        "chainId": "1",
-                        "vault": "76vLcjT4MBMvhEw5CeHPjCovpfpGmHwQ6RGM3Qd7Usnu",
-                        "settings": "BoC8sXW7qBhz4ESNbtwZbxeg3QQ2h61Z75QRBvaNZJBZ",
-                        "solanaConfiguration": "0:e44fab5fd3190b47c76b8615596ae3c6ed2e01698754e732fe799515d994dc9c",
-                        "depositType": "default",
-                        "token": "So11111111111111111111111111111111111111112",
-                        "name": "WSOL"
                     }
                 ]
             }
