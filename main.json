@@ -1,7 +1,7 @@
 {
     "name": "Broxus Bridge connected assets",
     "multitoken": {
-        "evm_everscale": {
+        "evm_tvm": {
             "proxy": "0:85c3287c6114e420ae82ec1364da3c760a5789f383213ef3cedef5d8c3d126fd",
             "vaults": [
                 {
@@ -36,7 +36,7 @@
                 }
             ]
         },
-        "everscale_evm": {
+        "tvm_evm": {
             "proxy": "0:36122a25a11e8772dc5d94f5f6a653d4661f6e474bc85cb275aece185acd62a4",
             "vaults": [
                 {
