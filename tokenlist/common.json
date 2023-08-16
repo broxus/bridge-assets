@@ -255,6 +255,23 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg"
+    },
+
+    {
+      "name": "KlaySwap Protocol",
+      "symbol": "KSP",
+      "address": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
+      "chainId": 8217,
+      "decimals": 18,
+      "logoURI": "https://ss.klayswap.com/data/img/token/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654.svg"
+    },
+    {
+      "name": "Kleva Token",
+      "symbol": "KLEVA",
+      "address": "0x5fff3a6c16c2208103f318f4713d4d90601a7313",
+      "chainId": 8217,
+      "decimals": 18,
+      "logoURI": "https://ss.klayswap.com/data/img/token/0x5fff3a6c16c2208103f318f4713d4d90601a7313/icon.png?v=1665034012261"
     }
   ]
 }
