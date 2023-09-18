@@ -280,6 +280,14 @@
       "chainId": 8217,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/KLEVA/logo.png"
+    },
+    {
+      "name": "GemHUB",
+      "symbol": "GHUB",
+      "address": "0x4836cC1f355bB2A61c210EAA0CD3f729160CD95E",
+      "chainId": 8217,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GHUB/icon.svg"
     }
   ]
 }
