@@ -19,7 +19,7 @@
     {
       "name": "Wrapped EVER",
       "symbol": "WEVER",
-      "address": "0x29d578cec46b50fa5c88a99c6a4b70184c062953",
+      "address": "0x1ffefd8036409cb6d652bd610de465933b226917",
       "chainId": 1,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WEVER/logo.svg"
@@ -27,7 +27,7 @@
     {
       "name": "Wrapped EVER",
       "symbol": "WEVER",
-      "address": "0x0A7e7D210C45c4abBA183C1D0551B53AD1756ecA",
+      "address": "0x1ffefd8036409cb6d652bd610de465933b226917",
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WEVER/logo.svg"
