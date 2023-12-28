@@ -1,6 +1,22 @@
 {
     "name": "Broxus Bridge connected assets",
     "multitoken": {
+        "solana_tvm": {
+            "proxy": "0:85c3287c6114e420ae82ec1364da3c760a5789f383213ef3cedef5d8c3d126fd",
+            "solanaConfiguration": "0:98c7fa14bfcb54d7f0c8fffca2403962d1d9ca583a7ad42a94e1bdaffb6e1491",
+            "tvmConfiguration": "0:4c2bd4d9f9a6870f53481a83f312bcd69b7d573ec5f666c4362164c106ff6282",
+            "vault": "C1ixwNNdRRMrNZkgpvReN8cVpCQizSihmyeFdcobNVW1",
+            "chainId": "1",
+            "depositType": "default"
+        },
+        "tvm_solana": {
+            "proxy": "0:36122a25a11e8772dc5d94f5f6a653d4661f6e474bc85cb275aece185acd62a4",
+            "solanaConfiguration": "0:87be1bb22c7b5b8767ae2eeedd28076325ba03c6f1142a76ca528de6438f8897",
+            "tvmConfiguration": "0:62b2615096254cd4443863dcd422c6b63e02b2b92e6dc5d092dd89298db81864",
+            "vault": "C1ixwNNdRRMrNZkgpvReN8cVpCQizSihmyeFdcobNVW1",
+            "chainId": "1",
+            "depositType": "default"
+        },
         "evm_tvm": {
             "proxy": "0:85c3287c6114e420ae82ec1364da3c760a5789f383213ef3cedef5d8c3d126fd",
             "vaults": [
