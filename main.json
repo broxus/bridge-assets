@@ -62,7 +62,7 @@
                 {
                     "chainId": "250",
                     "vault": "0x4ab740157721105ae503fbad756a578171512525",
-                    "ethereumConfiguration": "0:23b39985553b5d1abe798bb9ae03abc284b5438bc5a9f18fbd6929cf87f1393b",
+                    "ethereumConfiguration": "0:fa85b0723d1836e339ba5a9d1fb58bbfca27ae7632b67d6b142d54196f049b7a",
                     "depositType": "default"
                 },
                 {
