@@ -1,7 +1,7 @@
 {
     "name": "DEMO TON bridge assets",
     "multitoken": {
-        "evm_tvm": {
+        "evm_ton": {
             "proxy": "0:6ba428082d2628716eee2c728324dd1f8283c9382b09a79b8ce0a5c00def5e97",
             "vaults": [
                 {
@@ -12,7 +12,7 @@
                 }
             ]
         },
-        "tvm_evm": {
+        "ton_evm": {
             "proxy": "0:31f98edaf5cd92e674799c0e4bc5cd8e050e4e9401e29f1766f4d27ccc87377d",
             "vaults": [
                 {
