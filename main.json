@@ -1,7 +1,7 @@
 {
     "name": "DEMO TYCHO bridge assets",
     "multitoken": {
-        "evm_ton": {
+        "evm_tvm": {
             "proxy": "0:3d2ee3ff7118b05c7ea39ff6cdefe8101814bc3753ca45654d76b6791611992a",
             "vaults": [
                 {
@@ -12,7 +12,7 @@
                 }
             ]
         },
-        "ton_evm": {
+        "tvm_evm": {
             "proxy": "0:abaef59990f979b2f42bfb3ebd85bbe4a9841dc1b489a9dbb3cd73244b95fee8",
             "vaults": [
                 {
