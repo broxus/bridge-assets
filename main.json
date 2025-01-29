@@ -1,7 +1,7 @@
 {
     "name": "HMSTR ChainConnect assets",
     "multitoken": {
-        "evm_ton": {
+        "evm_tvm": {
             "proxy": "0:7b91a7c5f16d32cf9acca54779cfa02c03ea5c20e4bf06319de9be701eecee89",
             "vaults": [
                 {
@@ -24,7 +24,7 @@
                 }
             ]
         },
-        "ton_evm": {
+        "tvm_evm": {
             "proxy": "0:2d5f8c9df13193be3e827d104efe02ea1964382d6294af8291f901adc9ccd82f",
             "vaults": [
                 {
