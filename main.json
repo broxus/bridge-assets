@@ -1,24 +1,24 @@
 {
-    "name": "DEMO TON bridge assets",
+    "name": "TON Testnet bridge assets",
     "multitoken": {
         "evm_ton": {
-            "proxy": "0:6ba428082d2628716eee2c728324dd1f8283c9382b09a79b8ce0a5c00def5e97",
+            "proxy": "0:a91e5ca88d236312d3c5591090ab3535fe827929e939e198a27a73f9696929bd",
             "vaults": [
                 {
-                    "chainId": "56",
-                    "vault": "0x0D6aED87931dcC3244B2C62b620911D79dE391eF",
-                    "ethereumConfiguration": "0:c305a5766e84bc8048b528eaec248951bbd38f862260b98480ebcfd919a41d3c",
+                    "chainId": "43114",
+                    "vault": "0x88cA9A25E1de9cd7cDe6CD2727973051ca0792D3",
+                    "ethereumConfiguration": "0:7bcca30e40015eb3e394c7ce46aae01efab0c255a48f4f6df9838df6a3a3aa11",
                     "depositType": "default"
                 }
             ]
         },
         "ton_evm": {
-            "proxy": "0:31f98edaf5cd92e674799c0e4bc5cd8e050e4e9401e29f1766f4d27ccc87377d",
+            "proxy": "0:905580b7a03e57f3f54204c444f2f63b4ba49cc8e6f0d107e972f5ce9e2e1609",
             "vaults": [
                 {
-                    "chainId": "56",
-                    "vault": "0x0D6aED87931dcC3244B2C62b620911D79dE391eF",
-                    "ethereumConfiguration": "0:9fd5f899022d976807cb37530262f1a2908c6cf22f81aefba3dd9ea36de826ff",
+                    "chainId": "43114",
+                    "vault": "0x88cA9A25E1de9cd7cDe6CD2727973051ca0792D3",
+                    "ethereumConfiguration": "0:5272355aa64fabdd63a36b5f98ebc4d82d518ae90a1a7e2c98e4a7e43b3ca949",
                     "depositType": "default"
                 }
             ]
