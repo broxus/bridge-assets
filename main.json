@@ -13,7 +13,7 @@
             ]
         },
         "tvm_evm": {
-            "proxy": "0:75363a651bc31cc7b654631be433664fa69c6179affc971dd372c4bbfdec6862,
+            "proxy": "0:75363a651bc31cc7b654631be433664fa69c6179affc971dd372c4bbfdec6862",
             "vaults": [
                 {
                     "chainId": "56",
