@@ -7,13 +7,13 @@
                 {
                     "chainId": "43114",
                     "vault": "0x88cA9A25E1de9cd7cDe6CD2727973051ca0792D3",
-                    "ethereumConfiguration": "0:8b922cbf86aab4812a45eeb98c08aec1c6761656cf596f66a0d4d91cca5e7043",
+                    "ethereumConfiguration": "0:d0607dd84555bdd57d772b094bd045273566232756986ed19e39cbad50ae588e",
                     "depositType": "default"
                 },
                 {
                     "chainId": "56",
                     "vault": "0x88cA9A25E1de9cd7cDe6CD2727973051ca0792D3",
-                    "ethereumConfiguration": "0:cc93c3fd4818c1932aceaa0e79124652ff439a0164579c0620a7828fce3bd40a",
+                    "ethereumConfiguration": "0:e458fb9a0f48c5cfacbbab2f38069489fe70341a8fd79ae8891c99355774273f",
                     "depositType": "default"
                 }
             ]
@@ -24,13 +24,13 @@
                 {
                     "chainId": "43114",
                     "vault": "0x88cA9A25E1de9cd7cDe6CD2727973051ca0792D3",
-                    "ethereumConfiguration": "0:3f7d40df88461bc16fa6532c34179ed877c1edde7c952da048f6a0aed4cd3603",
+                    "ethereumConfiguration": "0:218b73fda37d08ae87e5920113ae813005afdb9681db8db309f81afce56e364a",
                     "depositType": "default"
                 },
                 {
                     "chainId": "56",
                     "vault": "0x88cA9A25E1de9cd7cDe6CD2727973051ca0792D3",
-                    "ethereumConfiguration": "0:94a70370059463098d036b619c6d5ef9dfc71f9da5d05726fd2a75cfcab19c09",
+                    "ethereumConfiguration": "0:7ef90f9c7cc27c49cf5c63686f4032bfe9c033ef10a8eb4e95724da114ada3bf",
                     "depositType": "default"
                 }
             ]
